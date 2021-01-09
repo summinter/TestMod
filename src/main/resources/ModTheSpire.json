@@ -1,0 +1,10 @@
+{
+  "modid": "TestMod",
+  "name": "Test Mod",
+  "author_list": ["Summinter"],
+  "description": "Tring to make a simple mod",
+  "version": "0.1",
+  "sts_version": "1-9-2020",
+  "mts_version": "3.14.1",
+  "dependancies": ["basemod"]
+}
